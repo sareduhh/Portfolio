@@ -5,12 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+
 body {
   font-family: "Raleway", Arial, sans-serif;
   font-weight: 400;
@@ -908,9 +903,9 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(255, 255, 255, 0.5);
   text-decoration: none !important;
 }
-#fh5co-footer ul li a:hover {
+/*#fh5co-footer ul li a:hover {
   color: #fff;
-}
+}*/
 #fh5co-footer .fh5co-social li {
   display: block !important;
 }

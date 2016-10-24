@@ -188,7 +188,6 @@
     <Content Include="sass\bootstrap\mixins\_text-emphasis.scss" />
     <Content Include="sass\bootstrap\mixins\_text-overflow.scss" />
     <Content Include="sass\bootstrap\mixins\_vendor-prefixes.scss" />
-    <Content Include="photos\.DS_Store" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -224,24 +223,12 @@
     <Content Include="js\modernizr-2.6.2.min.js" />
     <Content Include="js\owl.carousel.min.js" />
     <Content Include="js\respond.min.js" />
-    <Content Include="photos\about-img.jpg" />
-    <Content Include="photos\image_1.jpg" />
-    <Content Include="photos\image_2.jpg" />
-    <Content Include="photos\image_3.jpg" />
-    <Content Include="photos\image_4.jpg" />
-    <Content Include="photos\image_5.jpg" />
-    <Content Include="photos\image_6.jpg" />
-    <Content Include="photos\image_7.jpg" />
-    <Content Include="photos\image_8.jpg" />
-    <Content Include="photos\image_9.jpg" />
-    <Content Include="photos\loader.gif" />
-    <Content Include="photos\loc.png" />
-    <Content Include="photos\person1.jpg" />
-    <Content Include="photos\person2.jpg" />
-    <Content Include="photos\person3.jpg" />
-    <Content Include="photos\slide_1.jpg" />
-    <Content Include="photos\slide_2.jpg" />
-    <Content Include="photos\slide_3.jpg" />
+    <Content Include="photos\1396767_102421156768971_292111775596243812_o.jpg" />
+    <Content Include="photos\Pasted image at 2016_10_24 10_44 AM.png" />
+    <Content Include="photos\Tuscany Villa 2.png" />
+    <Content Include="photos\Tuscany Villa resp.png" />
+    <Content Include="photos\Tuscany Villa resp2.png" />
+    <Content Include="photos\Tuscany Villa.png" />
     <Content Include="pricing.html" />
     <Content Include="README.txt" />
     <Content Include="resume\Resume.SoftwareEngineering.html" />
