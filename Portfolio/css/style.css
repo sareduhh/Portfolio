@@ -586,7 +586,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-position: center center;
 }
 #fh5co-work-section .item-grid .image1 {
-  height: 1500px;
+  height: 1000px;
   overflow: hidden;
   margin-bottom: 20px;
   background-size: cover;
@@ -910,9 +910,9 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(255, 255, 255, 0.5);
   text-decoration: none !important;
 }
-/*#fh5co-footer ul li a:hover {
-  color: #fff;
-}*/
+#fh5co-footer ul li a:hover {
+  color: #b200ff;
+}
 #fh5co-footer .fh5co-social li {
   display: block !important;
 }
