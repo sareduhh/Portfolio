@@ -196,25 +196,20 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="about.html" />
+    <Content Include="aboutme.html" />
     <Content Include="contact.html" />
     <Content Include="css\animate.css" />
     <Content Include="css\bootstrap.css" />
     <Content Include="css\flexslider.css" />
     <Content Include="css\icomoon.css" />
-    <Content Include="css\index.html" />
     <Content Include="css\owl.carousel.min.css" />
     <Content Include="css\owl.theme.default.min.css" />
     <Content Include="css\style.css" />
     <Content Include="fonts\bootstrap\glyphicons-halflings-regular.svg" />
-    <Content Include="fonts\bootstrap\index.html" />
     <Content Include="fonts\icomoon\icomoon.svg" />
-    <Content Include="fonts\icomoon\index.html" />
-    <Content Include="fonts\index.html" />
-    <Content Include="index.html" />
+    <Content Include="INDEX.html" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\google_map.js" />
-    <Content Include="js\index.html" />
     <Content Include="js\jquery.easing.1.3.js" />
     <Content Include="js\jquery.flexslider-min.js" />
     <Content Include="js\jquery.min.js" />
@@ -224,20 +219,20 @@
     <Content Include="js\owl.carousel.min.js" />
     <Content Include="js\respond.min.js" />
     <Content Include="photos\1396767_102421156768971_292111775596243812_o.jpg" />
+    <Content Include="photos\Create   Outfit of the Day.png" />
+    <Content Include="photos\home   Outfit of the Day.png" />
+    <Content Include="photos\Home Page   Outfit of the Day.png" />
+    <Content Include="photos\Index   Outfit of the Day.png" />
     <Content Include="photos\Pasted image at 2016_10_24 10_44 AM.png" />
+    <Content Include="photos\sarah.png" />
     <Content Include="photos\Tuscany Villa 2.png" />
     <Content Include="photos\Tuscany Villa resp.png" />
     <Content Include="photos\Tuscany Villa resp2.png" />
     <Content Include="photos\Tuscany Villa.png" />
-    <Content Include="pricing.html" />
     <Content Include="README.txt" />
     <Content Include="resume\Resume.SoftwareEngineering.html" />
-    <Content Include="sass\bootstrap\index.html" />
-    <Content Include="sass\bootstrap\mixins\index.html" />
-    <Content Include="sass\index.html" />
     <Content Include="scripts\ai.0.22.19-build00125.js" />
     <Content Include="scripts\ai.0.22.19-build00125.min.js" />
-    <Content Include="services.html" />
     <Content Include="Web.config" />
     <Content Include="work.html" />
   </ItemGroup>
