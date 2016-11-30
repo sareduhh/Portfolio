@@ -205,8 +205,6 @@
     <Content Include="css\bootstrap.css" />
     <Content Include="css\flexslider.css" />
     <Content Include="css\icomoon.css" />
-    <Content Include="css\owl.carousel.min.css" />
-    <Content Include="css\owl.theme.default.min.css" />
     <Content Include="css\style.css" />
     <Content Include="fonts\bootstrap\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\icomoon\icomoon.svg" />
