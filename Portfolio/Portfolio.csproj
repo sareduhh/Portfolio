@@ -112,6 +112,9 @@
     <Content Include="fonts\icomoon\icomoon.ttf" />
     <Content Include="fonts\icomoon\icomoon.woff" />
     <Content Include="fonts\.DS_Store" />
+    <Content Include="photos\Home Page Citizen Connect.png" />
+    <Content Include="photos\me2.jpg" />
+    <Content Include="photos\meeeee.jpg" />
     <Content Include="sass\.DS_Store" />
     <Content Include="sass\bootstrap.scss" />
     <Content Include="sass\style.scss" />
@@ -218,13 +221,11 @@
     <Content Include="js\modernizr-2.6.2.min.js" />
     <Content Include="js\owl.carousel.min.js" />
     <Content Include="js\respond.min.js" />
-    <Content Include="photos\1396767_102421156768971_292111775596243812_o.jpg" />
     <Content Include="photos\Create   Outfit of the Day.png" />
     <Content Include="photos\home   Outfit of the Day.png" />
     <Content Include="photos\Home Page   Outfit of the Day.png" />
     <Content Include="photos\Index   Outfit of the Day.png" />
     <Content Include="photos\Pasted image at 2016_10_24 10_44 AM.png" />
-    <Content Include="photos\sarah.png" />
     <Content Include="photos\Tuscany Villa 2.png" />
     <Content Include="photos\Tuscany Villa resp.png" />
     <Content Include="photos\Tuscany Villa resp2.png" />
